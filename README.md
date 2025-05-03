@@ -35,4 +35,4 @@ O circuito foi montado no Tinkercad, incluindo o controle do motor com TIP120, L
 
 ## Código:
 
-O código está no arquivo `EstufaArduino.ino`.
+O código está no arquivo (https://raw.githubusercontent.com/eliezersantana/projeto_iot.01/refs/heads/main/projeto_dio_iot1.ino)
