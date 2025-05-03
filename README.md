@@ -23,6 +23,8 @@ Este projeto simula o controle de uma estufa de hortaliças usando um Arduino Un
 
 ## Circuito:
 
+![Image](https://github.com/user-attachments/assets/e25658f4-0525-4051-948b-1c495d266287)
+
 O circuito foi montado no Tinkercad, incluindo o controle do motor com TIP120, LEDs, buzzer e leitura do sensor.
 
 ## Como simular:
