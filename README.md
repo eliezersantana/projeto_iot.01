@@ -39,10 +39,9 @@ O circuito foi montado no Tinkercad, incluindo o controle do motor com TIP120, L
 
 ## Como simular:
 
-1. Acesse o link do projeto no Tinkercad: (https://www.tinkercad.com/things/byMonvd23q0-projeto-dio-iot)
-2. Clique em **"Iniciar Simulação"**
-3. Clique no sensor de temperatura para ajustar a temperatura manualmente
-4. Observe os acionamentos conforme a temperatura
+1. Clique em **"Iniciar Simulação"**
+2. Clique no sensor de temperatura para ajustar a temperatura manualmente
+3. Observe os acionamentos conforme a temperatura
 
 ## Código:
 
